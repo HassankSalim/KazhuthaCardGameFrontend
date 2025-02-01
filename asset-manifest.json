@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KazhuthaCardGameFrontend/static/css/main.1898eb67.css",
-    "main.js": "/KazhuthaCardGameFrontend/static/js/main.af97128e.js",
+    "main.js": "/KazhuthaCardGameFrontend/static/js/main.01fd1ea5.js",
     "index.html": "/KazhuthaCardGameFrontend/index.html",
     "main.1898eb67.css.map": "/KazhuthaCardGameFrontend/static/css/main.1898eb67.css.map",
-    "main.af97128e.js.map": "/KazhuthaCardGameFrontend/static/js/main.af97128e.js.map"
+    "main.01fd1ea5.js.map": "/KazhuthaCardGameFrontend/static/js/main.01fd1ea5.js.map"
   },
   "entrypoints": [
     "static/css/main.1898eb67.css",
-    "static/js/main.af97128e.js"
+    "static/js/main.01fd1ea5.js"
   ]
 }
