@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-const SERVER_URL = process.env.REACT_APP_SERVER_URL || 'localhost:8000';
+const SERVER_URL = process.env.REACT_APP_SERVER_URL || 'kazhutha-card-game-server.onrender.com';
 const BACKEND_URL = `https://${SERVER_URL}`;
 
 const BhabiGame = () => {
@@ -175,7 +175,7 @@ const BhabiGame = () => {
     <div className="bg-white shadow-xl rounded-lg overflow-hidden">
       {gameState === 'lobby' && !gameId && (
         <div className="p-6">
-          <h2 className="text-2xl font-bold mb-4">Welcome to Bhabi</h2>
+          <h2 className="text-2xl font-bold mb-4">Welcome to Kazhutha</h2>
           <input
             type="text"
             placeholder="Enter your name"
