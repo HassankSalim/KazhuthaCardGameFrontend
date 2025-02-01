@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KazhuthaCardGameFrontend/static/css/main.1898eb67.css",
+    "main.js": "/KazhuthaCardGameFrontend/static/js/main.f486beed.js",
+    "index.html": "/KazhuthaCardGameFrontend/index.html",
+    "main.1898eb67.css.map": "/KazhuthaCardGameFrontend/static/css/main.1898eb67.css.map",
+    "main.f486beed.js.map": "/KazhuthaCardGameFrontend/static/js/main.f486beed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1898eb67.css",
+    "static/js/main.f486beed.js"
+  ]
+}
